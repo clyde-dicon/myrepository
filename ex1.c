@@ -9,6 +9,8 @@ int main()
 	int x[100], y[100];
         int i;
 	
+	printf ("Hello World");
+
 	scanf("%d %d", &M, &N);
 	input(x, M);
 	input(y, N);
