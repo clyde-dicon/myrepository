@@ -3,6 +3,8 @@
 void input(int *p, int N);
 void output(int *p, int N);
 
+abc
+
 int main()
 {
 	int M, N, k;
